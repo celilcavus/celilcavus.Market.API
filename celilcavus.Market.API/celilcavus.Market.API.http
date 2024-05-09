@@ -1,0 +1,6 @@
+@celilcavus.Market.API_HostAddress = http://localhost:5032
+
+GET {{celilcavus.Market.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
